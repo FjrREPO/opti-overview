@@ -13,6 +13,9 @@ optiFi addresses these challenges by combining AI-driven personalization, automa
 ### How It Works  
 optiFi simplifies the investment process into a few intuitive steps. Users begin by connecting their crypto wallet and generating an Agent Wallet, which automates transactions like staking, swapping, and rebalancing. After completing a questionnaire, the platform’s AI categorizes users into one of three risk profiles—Conservative, Balanced, or Aggressive—and recommends an optimal asset allocation strategy. Tokens are then staked automatically through the Agent Wallet, which interacts with trusted DeFi protocols. Users can monitor their portfolios in real-time via the dashboard and benefit from dynamic rebalancing that adjusts strategies based on market conditions. This streamlined workflow ensures a secure, efficient, and personalized DeFi experience.
 
+## Documentation
+https://kbaji.gitbook.io/optifi-manta
+
 ## Website
 Here's optiFi website link: https://opti-finance-manta.vercel.app/
 
